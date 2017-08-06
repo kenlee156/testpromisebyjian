@@ -1,0 +1,81 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "testpromisebyjian",
+        "scope": null,
+        "escapedName": "testpromisebyjian",
+        "name": "testpromisebyjian",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\jian.li"
+    ]
+  ],
+  "_from": "testpromisebyjian@latest",
+  "_id": "testpromisebyjian@1.0.1",
+  "_inCache": true,
+  "_location": "/testpromisebyjian",
+  "_nodeVersion": "6.11.2",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/testpromisebyjian-1.0.1.tgz_1501756427900_0.22272180626168847"
+  },
+  "_npmUser": {
+    "name": "kenlee156",
+    "email": "kenlee156@gmail.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "testpromisebyjian",
+    "scope": null,
+    "escapedName": "testpromisebyjian",
+    "name": "testpromisebyjian",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/testpromisebyjian/-/testpromisebyjian-1.0.1.tgz",
+  "_shasum": "5c0f3d334947a6811618c1f76847b12ef3e5ed54",
+  "_shrinkwrap": null,
+  "_spec": "testpromisebyjian",
+  "_where": "C:\\Users\\jian.li",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/kenlee156/testpromisebyjian/issues"
+  },
+  "dependencies": {},
+  "description": "test PromiseJS without jQuery and other Framework",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "5c0f3d334947a6811618c1f76847b12ef3e5ed54",
+    "tarball": "https://registry.npmjs.org/testpromisebyjian/-/testpromisebyjian-1.0.1.tgz"
+  },
+  "homepage": "https://github.com/kenlee156/testpromisebyjian",
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "kenlee156",
+      "email": "kenlee156@gmail.com"
+    }
+  ],
+  "name": "testpromisebyjian",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenlee156/testpromisebyjian.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
