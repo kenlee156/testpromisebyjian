@@ -1,20 +1,17 @@
-  "name": "testpromisebyjian",
 {
+  "name": "testpromisebyjian",
   "version": "1.0.1",
   "description": "test PromiseJS without jQuery and other Framework",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js"
   },
-    "test": "echo \"Error: no test specified\" && exit 1"
   "repository": {
     "type": "git",
-    "url": "https://github.com/kenlee156/testpromisebyjian.git"
+    "url": "https://github.com/kenlee156/testpromisebyjian"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/kenlee156/testpromisebyjian/issues"
-  },
+  "author": "Jian LI",
+  "license": "MIT"
   "homepage": "https://github.com/kenlee156/testpromisebyjian"
 }
